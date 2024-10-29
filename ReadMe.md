@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá! Bem vindo ao meu  Github profile.<br>Olá, me chamo Washington!<br> 🔭 Atualmente estou trabalhando em Projetos pessoais .<br>🌱 Atualmente estou aprendendo Fastapi a fundo , django e  webscraping ...<br>📫 Como entrar em contato comigo: slash.o.teobaldo@gmail.com<br> ⚡ Curiosidade: 🎵 e 🎮... <br>
+👋 Olá! Bem vindo ao meu  Github profile.<br>Me chamo Washington!<br> 🔭 Atualmente estou trabalhando em Projetos pessoais .<br>🌱 Atualmente estou aprendendo Fastapi a fundo , django e  webscraping ...<br>📫 Como entrar em contato comigo: slash.o.teobaldo@gmail.com<br> ⚡ Curiosidade: 🎵 e 🎮... <br>
 🕵️‍♂️ Não existe uma bala de prata na programção...😉".<br><br>
 
 
